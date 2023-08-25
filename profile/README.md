@@ -1,3 +1,4 @@
+![HBC Logo](./hbc.png)
 # Harvard Blockchain Club
 
 Welcome to the GitHub organization for the Harvard Blockchain Club! Here, you'll find repositories for our various projects, tutorials, and resources.
